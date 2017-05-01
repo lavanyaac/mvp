@@ -1,4 +1,4 @@
-# Project Name #
+# Stock Watchlist #
 
 <!-- 
 > This material was originally posted [here](http://www.quora.com/What-is-Amazons-approach-to-product-development-and-product-management). It is reproduced here for posterities sake.
@@ -18,27 +18,37 @@ Once the project moves into development, the press release can be used as a touc
  
 ## Heading ##
   > Name the product in a way the reader (i.e. your target customers) will understand.
+  Stocks Watchlist
 
 ## Sub-Heading ##
   > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+  Watch and monitor all your stock investments.
 
 ## Summary ##
   > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  Stock watchlist will help in watching the stock prices for a user. User can create a login and add list of stocks to his/her portfolio. User can create alerts for stock price flutuations. 
 
 ## Problem ##
   > Describe the problem your product solves.
 
+
 ## Solution ##
   > Describe how your product elegantly solves the problem.
+  Stock watchlist will consolidate all the stocks user wants to watch at one place. User will be able to set the price change alert. 
 
 ## Quote from You ##
   > A quote from a spokesperson in your company.
+  Manage all your stocks at one place. 
 
 ## How to Get Started ##
   > Describe how easy it is to get started.
+	Just create a login and add the stocks you wish to follow. 
 
 ## Customer Quote ##
   > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+	Stock watchlist is one place to manage all my stocks. Super fast live quotes and alerts.
 
 ## Closing and Call to Action ##
   > Wrap it up and give pointers where the reader should go next.
+	try it out: url
+
